@@ -1,7 +1,6 @@
 <!DOCTYPE HTML>
-<!--
-	
--->
+
+
 <html>
 	<head>
 		<title>My Portfolio</title>
