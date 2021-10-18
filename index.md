@@ -7,8 +7,8 @@
 		<title>My Portfolio</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<link rel="stylesheet" href="main.css" />
+		<noscript><link rel="stylesheet" href="noscript.css" /></noscript>
 	</head>
 	<body class="is-preload">
 
@@ -102,7 +102,7 @@
 										<h2><a href="#">React Project<br />
 									</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="images/React.png" alt="" /></a>
+									<a href="#" class="image fit"><img src="React.png" alt="" /></a>
 									
 									<ul class="actions special">
 										<li>
@@ -121,7 +121,7 @@
 										<h2><a href="#">Python Project<br />
 										</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="images/python-logo-master-v3-TM-flattened.png" alt="" /></a>
+									<a href="#" class="image fit"><img src="python-logo-master-v3-TM-flattened.png" alt="" /></a>
 									
 									<ul class="actions special">
 										<li>
@@ -140,7 +140,7 @@
 										<h2><a href="#">Salesforce Project<br />
 										</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="images/salesforce button.png" alt="" /></a>
+									<a href="#" class="image fit"><img src="salesforce button.png" alt="" /></a>
 									<ul class="actions special">
 										<li>
 
@@ -157,7 +157,7 @@
 										<h2><a href="#">HTML/CSS Project<br />
 											</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="images/HTML.CSS.png" alt="" /></a>
+									<a href="#" class="image fit"><img src="HTML.CSS.png" alt="" /></a>
 									<ul class="actions special">
 										<li>
 
@@ -174,7 +174,7 @@
 										<h2><a href="#">Javascript Project<br />
 											</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="images/JavaScript_logo_web.jpg" alt="" /></a>
+									<a href="#" class="image fit"><img src="JavaScript_logo_web.jpg" alt="" /></a>
 									<ul class="actions special">
 										<li>
 
@@ -191,7 +191,7 @@
 										<h2><a href="#">My Github Profile<br />
 											</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="images/GITHUB.LOGO.png" alt="" /></a>
+									<a href="#" class="image fit"><img src="GITHUB.LOGO.png" alt="" /></a>
 									<ul class="actions special">
 										<li>
 
@@ -210,7 +210,7 @@
 										<h2><a href="#">Resources<br />
 											</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="images/R.png" alt="" /></a>
+									<a href="#" class="image fit"><img src="R.png" alt="" /></a>
 									<ul class="actions special">
 									<li>
 
@@ -254,13 +254,13 @@
 			</div>
 
 		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/jquery.scrolly.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
+			<script src="jquery.min.js"></script>
+			<script src="jquery.scrollex.min.js"></script>
+			<script src="jquery.scrolly.min.js"></script>
+			<script src="browser.min.js"></script>
+			<script src="breakpoints.min.js"></script>
+			<script src="util.js"></script>
+			<script src="main.js"></script>
 
 	</body>
 </html>
