@@ -1,37 +1,266 @@
-## Welcome to GitHub Pages
+<!DOCTYPE HTML>
+<!--
+	
+-->
+<html>
+	<head>
+		<title>My Portfolio</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
 
-You can use the [editor on GitHub](https://github.com/Gracerosen/FIRST-TRY/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+				<!-- Intro -->
+					<div id="intro">
+						<h1>My Portfolio<br />
+						</h1>
+						<p>
+							My name is Grace Nettey </p>
+						<ul class="actions">
+							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
+						</ul>
+					</div>
 
-### Markdown
+				<!-- Header -->
+					<header id="header">
+					
+					</header>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li class="active"><a href="index.html">SEE IF YOU LIKE.</a></li>
 
-```markdown
-Syntax highlighted code block
+						</ul>
+						<ul class="icons">
+							
+							<li><a href="#" class="icon brands fa-linkedin"><span class="label">fa-linkedin</span></a></li>
+							<li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+						</ul>
+					</nav>
 
-# Header 1
-## Header 2
-### Header 3
+				<!-- Main -->
+					<div id="main">
 
-- Bulleted
-- List
+						<!-- Featured Post -->
+							<article class="post featured">
+								<header class="major">
 
-1. Numbered
-2. List
+									<h2><a href="#">My name is Grace Nettey</a></h2>
+									<p>Keen dev.</p>
+								</header>
+								<ul class="actions special">
+								</ul>
+							</article>
 
-**Bold** and _Italic_ and `Code` text
+						<!-- Posts -->
+							<section class="posts">
+								<article>
+									<header>
 
-[Link](url) and ![Image](src)
-```
+										<h2><a href="#">The Practical Concepts of Programming<br />
+										</a></h2>
+									</header>
+									<a href="#" class="image fit"><img src="images/R (1).png" alt="" /></a>
+									<ul class="actions special">
+										<li>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+											<button>
+												<a href="https://github.com/Gracerosen/SALESFORCE">
+											See Practical Concepts of Programming </a> 
+											</button>
+										</li>
+									</ul>
+								</article>
 
-### Jekyll Themes
+								<article>
+									<header>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gracerosen/FIRST-TRY/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+										<h2><a href="#">Theory<br />
+											</a></h2>
+									</header>
+									<a href="#" class="image fit"><img src="images/OIP.jpg" alt="" /></a>
+									<ul class="actions special">
+										<li>
 
-### Support or Contact
+											<button>
+												<a href="https://github.com/Gracerosen/SALESFORCE">
+											See Theory </a> 
+											</button>
+										</li>
+									</ul>
+								</article>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+								<article>
+									<header>
+
+										<h2><a href="#">React Project<br />
+									</a></h2>
+									</header>
+									<a href="#" class="image fit"><img src="images/React.png" alt="" /></a>
+									
+									<ul class="actions special">
+										<li>
+
+											<button>
+												<a href="https://github.com/Gracerosen/SALESFORCE">
+											See React Github Repo </a> 
+											</button>
+										
+										</li>
+									</ul>
+								</article>
+								<article>
+									<header>
+
+										<h2><a href="#">Python Project<br />
+										</a></h2>
+									</header>
+									<a href="#" class="image fit"><img src="images/python-logo-master-v3-TM-flattened.png" alt="" /></a>
+									
+									<ul class="actions special">
+										<li>
+
+											<button>
+												<a href="https://github.com/Gracerosen/SALESFORCE">
+											See Python Github Repo </a> 
+											</button>
+										
+										</li>
+									</ul>
+								</article>
+								<article>
+									<header>
+
+										<h2><a href="#">Salesforce Project<br />
+										</a></h2>
+									</header>
+									<a href="#" class="image fit"><img src="images/salesforce button.png" alt="" /></a>
+									<ul class="actions special">
+										<li>
+
+											<button>
+												<a href="https://github.com/Gracerosen/SALESFORCE">
+											See Salesforce Github Repo </a> 
+											</button>
+										</li>
+									</ul>
+								</article>
+								<article>
+									<header>
+
+										<h2><a href="#">HTML/CSS Project<br />
+											</a></h2>
+									</header>
+									<a href="#" class="image fit"><img src="images/HTML.CSS.png" alt="" /></a>
+									<ul class="actions special">
+										<li>
+
+											<button>
+												<a href="https://github.com/Gracerosen/SALESFORCE">
+											See HTML/CSS Project Github Repo </a> 
+											</button>
+										</li>
+									</ul>
+								</article>
+								<article>
+									<header>
+
+										<h2><a href="#">Javascript Project<br />
+											</a></h2>
+									</header>
+									<a href="#" class="image fit"><img src="images/JavaScript_logo_web.jpg" alt="" /></a>
+									<ul class="actions special">
+										<li>
+
+											<button>
+												<a href="https://github.com/Gracerosen/SALESFORCE">
+											See Javascript Project Github Repo </a> 
+											</button>
+										</li>
+									</ul>
+								</article>
+								<article>
+									<header>
+
+										<h2><a href="#">My Github Profile<br />
+											</a></h2>
+									</header>
+									<a href="#" class="image fit"><img src="images/GITHUB.LOGO.png" alt="" /></a>
+									<ul class="actions special">
+										<li>
+
+											<button>
+												<a href="https://github.com/Gracerosen/SALESFORCE">
+											See Github Repo </a> 
+											</button>
+										</li>
+									</ul>
+								</article>
+								
+
+								<article>
+									<header>
+
+										<h2><a href="#">Resources<br />
+											</a></h2>
+									</header>
+									<a href="#" class="image fit"><img src="images/R.png" alt="" /></a>
+									<ul class="actions special">
+									<li>
+
+											<button>
+												<a href="https://github.com/Gracerosen/SALESFORCE">
+											See Resources </a> 
+											</button>
+										</li>
+									</ul>
+								</article>
+						
+							</section>
+
+						<!-- Footer -->
+							
+
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<section>
+							
+						</section>
+						
+							<section>
+								<h3>Social</h3>
+								<ul class="icons alt">
+								
+									<li><a href="#" class="icon brands alt fa-linkedin"><span class="label">fa-linkedin</span></a></li>
+									<li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+								</ul>
+							</section>
+						</section>
+					</footer>
+
+				<!-- Copyright -->
+					<div id="copyright">
+						<ul><li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
