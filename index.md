@@ -33,7 +33,7 @@
 				<!-- Nav -->
 					<nav id="nav">
 						<ul class="links">
-							<li class="active"><a href="index.html">SEE IF YOU LIKE.</a></li>
+							<li class="active"><a href="index.html">WORK IN PROGRESS</a></li>
 
 						</ul>
 						<ul class="icons">
@@ -51,7 +51,7 @@
 								<header class="major">
 
 									<h2><a href="#">My name is Grace Nettey</a></h2>
-									<p>Keen dev.</p>
+									<p>Showing my development projects</p>
 								</header>
 								<ul class="actions special">
 								</ul>
